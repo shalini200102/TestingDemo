@@ -1,0 +1,8 @@
+<!DOCTYPE xml>
+<xml>
+    <configuration>
+        <reportName>Myntra Test Report</reportName>
+        <encoding>utf-8</encoding>
+        <protocol>HTTP</protocol>
+    </configuration>
+</xml>
